@@ -301,13 +301,13 @@ header{
   width: 299px;
 }
 .ridle{
-  background: linear-gradient(to top, rgba(60, 60, 60, 0.1), rgba(60, 60, 60, 0.1)), url(doug-linstedt-135670-unsplash.jpg);
+  background-image: url(doug-linstedt-135670-unsplash.jpg);
   background-size: cover;
   margin-left: 20px;
   height: 200px;
 }
 .end{
-  background: linear-gradient(to top, rgba(60, 60, 60, 0.1), rgba(60, 60, 60, 0.1)), url(children-kids-people-1102609.jpg);
+  background-image: url(children-kids-people-1102609.jpg);
   margin-left: 20px;
   padding-left: 18px;
   background-size: cover;
