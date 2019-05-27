@@ -51,7 +51,7 @@ body, html{
 
 header{
   height: 460px;
-  background: linear-gradient(to top,rgba(60, 60, 60, 0.4), rgba(60, 60, 60, 0.1)), url(../Images/save_the_children_11.jpg);
+  background:url(save_the_children_11.jpg);
   background-size: cover;
 }
 .logo{
@@ -311,20 +311,20 @@ font-family: 'Playfair Display', serif;
   text-align: center;
 }
 .shift{
-  background: linear-gradient(to top, rgba(60, 60, 60, 0.1), rgba(60, 60, 60, 0.1)), url(../Images/abigail-keenan-27292-unsplash.jpg);
+  background:url(abigail-keenan-27292-unsplash.jpg);
   background-size: cover;
   margin-left: 60px;
   height: 200px;
   width: 299px;
 }
 .ridle{
-  background: linear-gradient(to top, rgba(60, 60, 60, 0.1), rgba(60, 60, 60, 0.1)), url(../Images/doug-linstedt-135670-unsplash.jpg);
+  background:url(doug-linstedt-135670-unsplash.jpg);
   background-size: cover;
   margin-left: 20px;
   height: 200px;
 }
 .end{
-  background: linear-gradient(to top, rgba(60, 60, 60, 0.1), rgba(60, 60, 60, 0.1)), url(../Images/children-kids-people-1102609.jpg);
+  background:url(children-kids-people-1102609.jpg);
   margin-left: 20px;
   padding-left: 18px;
   background-size: cover;
